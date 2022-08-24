@@ -1,0 +1,16 @@
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\ConsoleApp1.exe.config
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\ConsoleApp1.exe
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\ConsoleApp1.pdb
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\SHP_KML.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\SHP_KML.pdb
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.CopyComplete
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.exe
+D:\2WorkSpace\ConsoleApp1\obj\x64\Debug\ConsoleApp1.pdb
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\Gdal.Core.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\AsposeGisTrans.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\Aspose.GIS.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\AsposeGisTrans.pdb
+D:\2WorkSpace\ConsoleApp1\bin\x64\Debug\Aspose.GIS.xml

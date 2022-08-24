@@ -1,0 +1,14 @@
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe.config
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\ConsoleApp1.pdb
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\SHP_KML.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\gdal_csharp.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\ogr_csharp.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\osr_csharp.dll
+D:\2WorkSpace\ConsoleApp1\bin\x64\Release\SHP_KML.pdb
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.AssemblyReference.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.ResolveComReference.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.CopyComplete
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.exe
+D:\2WorkSpace\ConsoleApp1\obj\x64\Release\ConsoleApp1.pdb
